@@ -1,0 +1,5 @@
+<Bindings>
+	<Binding name="TARGETNOTINRAID" header="TARGETNOTINRAID">
+		TargetNotInRaid(0);
+	</Binding>
+</Bindings>
